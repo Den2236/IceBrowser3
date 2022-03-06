@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">IceBrowser</string>
+    <string name="web_adress">http://</string>
+    <string name="blank"> </string>
+
+</resources>
